@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/permission"
+        android:title="Permission"
+        android:icon="@drawable/android_black"
+        />
+    <item
+        android:id="@+id/tutorial"
+        android:title="Tutorial"
+        android:icon="@drawable/android_black"
+        />
+    <item
+        android:id="@+id/about"
+        android:title="About App"
+        android:icon="@drawable/android_black"
+        />
+    <item
+        android:id="@+id/hide"
+        android:title="Hide this Sh8t"
+        android:icon="@drawable/android_black"
+        />
+    <item
+        android:id="@+id/github"
+        android:title="Github"
+        android:icon="@drawable/android_black"
+        />
+
+</menu>
+
